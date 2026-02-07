@@ -55,5 +55,5 @@ This enables flexible deployment depending on campaign cost and channel.
 
 ## 🧑‍🎓 Author
 **Aaditya Singh**  
-MSc Business Analytics  
+MSc Data Science  
 University of Surrey
